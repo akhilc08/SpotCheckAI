@@ -1,4 +1,4 @@
-#SpotCheckAI
+# SpotCheckAI
 SpotCheckAI is a skin cancer detection and classification app built using insights from cutting-edge research at NC State. The project integrates deep learning, GAN-based data augmentation, and knowledge distillation into a lightweight mobile-friendly platform for real-time dermatology support.
 
 Highlights
